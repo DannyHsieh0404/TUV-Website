@@ -1,0 +1,18 @@
+html, 
+body {
+  box-sizing: content-box;
+}
+
+/* Main contents */
+.carousel-inner {
+  height: 100%;
+}
+
+.quote {
+  background: #cdfffa;
+}
+
+/* Footer */
+.footer {
+  background: #d3d3d3;
+}
